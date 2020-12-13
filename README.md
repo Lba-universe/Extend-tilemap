@@ -12,21 +12,27 @@
 
 ###
 
-there are 2 scripts 
-1. generate matrix of random ints - between 0 and num of tiles given,
-also it has smoothing method that attach smilar tiles togther to make realistic tilemap.
+used the script on the game is based on ans change them.
+
+
+use this script : TilemapCaveGenerator.cs
 [Script-MatrixGenerator](https://github.com/Lba-universe/TileMap_Generator/blob/main/Assets/Scripts/TilesGenerator.cs)
 
-2. is to convert the matrix of ints - to tiles each number has index of uniqe tile in the scene
+CaveGenerator.cs
 [Script-TileMapGenerator](https://github.com/Lba-universe/TileMap_Generator/blob/main/Assets/Scripts/TileMapGenerator.cs)
 
-every changed line commented with "my change".
+
+EnemyTouch.cs
+[Script-TileMapGenerator](https://github.com/Lba-universe/TileMap_Generator/blob/main/Assets/Scripts/TileMapGenerator.cs)
+
+
+
 
 ###
-### in this example there is 5 diffrent tiles
+---
 
-![](https://github.com/Lba-universe/TileMap_Generator/blob/main/pics/tilemap1.png)
+![](/pics/2.png)
 
-![](https://github.com/Lba-universe/TileMap_Generator/blob/main/pics/tilemap3.png)
+![](/pics/3.png)
 
 
