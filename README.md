@@ -4,11 +4,11 @@
 
 ###
 
-### in this game you need to go to right-up corner without the enemy touch you
+### in this game you need to go to right-up corner without the enemy touch you,then the map extend.
 
 ### example pic
 
-![](https://github.com/Lba-universe/TileMap_Generator/blob/main/pics/tilemap2.png)
+![](/pics/1.png)
 
 ###
 
