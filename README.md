@@ -12,7 +12,7 @@
 
 ###
 
-used the script on the game is based on ans change them.
+used the same scripts that the game is based on use,and change them.
 
 
 use this script : TilemapCaveGenerator.cs
