@@ -16,14 +16,14 @@ used the script on the game is based on ans change them.
 
 
 use this script : TilemapCaveGenerator.cs
-[Script-MatrixGenerator](https://github.com/Lba-universe/TileMap_Generator/blob/main/Assets/Scripts/TilesGenerator.cs)
+[link here](https://github.com/Lba-universe/Extend-tilemap/blob/master/Assets/Scripts/4-generation/TilemapCaveGenerator.cs)
 
 CaveGenerator.cs
-[Script-TileMapGenerator](https://github.com/Lba-universe/TileMap_Generator/blob/main/Assets/Scripts/TileMapGenerator.cs)
+[link here](https://github.com/Lba-universe/Extend-tilemap/blob/master/Assets/Scripts/4-generation/CaveGenerator.cs)
 
 
 EnemyTouch.cs
-[Script-TileMapGenerator](https://github.com/Lba-universe/TileMap_Generator/blob/main/Assets/Scripts/TileMapGenerator.cs)
+[link here](https://github.com/Lba-universe/Extend-tilemap/blob/master/Assets/Scripts/3-enemies/EnemyTouch.cs)
 
 
 
