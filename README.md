@@ -2,6 +2,11 @@
 
 ## based on [This GitHub Repo](https://github.com/gamedev-at-ariel/05-tilemap-pathfinding)
 
+##  [Play the game here](https://lba-universe.itch.io/extend-map)
+
+
+
+
 ###
 
 ### in this game you need to go to right-up corner without the enemy touch you,then the map extend.
